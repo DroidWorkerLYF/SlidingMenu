@@ -9,7 +9,7 @@
     tools:context="com.droidworker.slidingmenu.MainActivity"
     android:scrollbars="none"
     slidingmenu:menu_width="200dp"
-    slidingmenu:edge_area="40dp">
+    slidingmenu:edge_area="20dp">
     
     <LinearLayout
         android:layout_width="wrap_content"
