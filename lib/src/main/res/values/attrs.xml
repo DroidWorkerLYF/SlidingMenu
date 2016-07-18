@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="SlidingMenu">
+        <!--菜单的宽度-->
         <attr name="menu_width" format="dimension"/>
+        <!--内容区域边缘可触控区域大小-->
         <attr name="edge_area" format="dimension"/>
+        <!--菜单部分status bar颜色-->
+        <attr name="menu_status_bar_color" format="reference|color"/>
     </declare-styleable>
 </resources>
